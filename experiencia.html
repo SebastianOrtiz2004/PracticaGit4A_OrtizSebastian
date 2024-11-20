@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educación</title>
+    <!-- Bootstrap CSS desde un CDN -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .navbar {
+            background-color: white;
+            border-bottom: 1px solid #dee2e6;
+        }
+        .navbar-brand {
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+        .nav-link {
+            font-weight: normal;
+            color: #000;
+            margin-right: 15px;
+        }
+        .nav-link:hover {
+            color: #007bff;
+        }
+        .section-title {
+            text-align: center;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="index.html">Proyecto</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="educacion.html">Educación</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#experiencia">Experiencia</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#meritos">Méritos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#contacto">Contacto</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Contenido principal -->
+    <main class="container mt-4">
+        <!-- Sección: Bases de datos Conocidas-->
+        <section id="Bases de datos conocidas">
+            <h2 class="section-title">Bases de datos conocidas</h2>
+            <p>- MySQL: Sistema de gestión de bases de datos relacional popular por su simplicidad y eficiencia.  
+                -PostgreSQL: Base de datos relacional avanzada con soporte para extensibilidad y estándares SQL estrictos.  
+                - MongoDB: Base de datos NoSQL orientada a documentos, ideal para manejar grandes volúmenes de datos no estructurados.  
+                - Oracle Database: Sistema de gestión de bases de datos relacional robusto, diseñado para grandes empresas y alta disponibilidad.
+            </p>
+        </section>
+    </main>
+
+    <footer class="text-center mt-4">
+        <p></p>
+    </footer>
+
+    <!-- Bootstrap JS, Popper.js, and jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
