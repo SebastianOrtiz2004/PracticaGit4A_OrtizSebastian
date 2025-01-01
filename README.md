@@ -5,7 +5,7 @@ _Este proyecto es un sistema de gestión de elecciones desarrollado para un solo
 1. [Comenzando 🚀](#comenzando-)
 2. [Pre-requisitos 📋](#pre-requisitos-)
 3. [Instalación 🔧](#instalación-)
-4. [Ejecutando las Pruebas ⚙️](#ejecutando-las-pruebas-)
+4. [Ejecutando las Pruebas ⚙️](#ejecutando-las-pruebas)
 5. [Despliegue 📦](#despliegue-)
 6. [Construido con 🛠️](#construido-con-)
 7. [Autores ✒️](#autores-)
