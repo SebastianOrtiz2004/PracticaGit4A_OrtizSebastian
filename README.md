@@ -73,7 +73,7 @@ _Herramientas utilizadas para desarrollar el proyecto:_
 * **Diego Jijón** - *Desarrollo y Documentación* - [Diego200509](https://github.com/Diego200509)
 * **Elkin López** - *Desarrollo* - [Elkinnn](https://github.com/Elkinnn)
 * **Leonel Barros** - *Desarrollo* - [Leo538](https://github.com/Leo538)
-* **T1Angel4220** - *Desarrollo* - [T1Angel4220](https://github.com/Diego200509](https://github.com/T1Angel4220)
+* **T1Angel4220** - *Desarrollo* - [T1Angel4220](https://github.com/T1Angel4220)
 
 
 
