@@ -2,15 +2,15 @@
 
 _Este proyecto es un sistema de gestión de elecciones desarrollado para un solo partido político. Permite a los usuarios realizar sugerencias, votar por un candidato y ver los resultados, además de proporcionar herramientas administrativas para gestionar sugerencias y resultados._
 ## Tabla de Contenidos 📑
-1. [Comenzando 🚀](#comenzando-🚀)
-2. [Pre-requisitos 📋](#pre-requisitos-📋)
-3. [Instalación 🔧](#instalación-🔧)
-4. [Estructura del Proyecto 📂](#estructura-del-proyecto-📂)
-5. [Ejecutando las Pruebas ⚙️](#ejecutando-las-pruebas-⚙️)
-6. [Despliegue 📦](#despliegue-📦)
-7. [Construido con 🛠️](#construido-con-🛠️)
-9. [Autores ✒️](#autores-✒️)
-10. [Expresiones de Gratitud 🎁](#expresiones-de-gratitud-🎁)
+1. [Comenzando 🚀](#comenzando-)
+2. [Pre-requisitos 📋](#pre-requisitos-)
+3. [Instalación 🔧](#instalación-)
+4. [Ejecutando las Pruebas ⚙️](#ejecutando-las-pruebas-)
+5. [Despliegue 📦](#despliegue-)
+6. [Construido con 🛠️](#construido-con-)
+7. [Autores ✒️](#autores-)
+8. [Expresiones de Gratitud 🎁](#expresiones-de-gratitud-)
+
 
 ## Comenzando 🚀
 
@@ -58,23 +58,6 @@ _Sigue estos pasos para tener el proyecto funcionando en tu entorno local:_
 - Crear una sugerencia como usuario.
 - Revisar y aprobar la sugerencia como administrador.
 - Verificar que la sugerencia se muestre en la sección correspondiente.
-
-## Estructura del Proyecto 📂
-src/
-├── Home/                # Página principal del sistema
-├── Sugerencias/         # Gestión de sugerencias
-│   ├── index.php        # Menú principal para sugerencias
-│   ├── candidato1.php   # Sugerencias para el candidato 1
-│   ├── candidato2.php   # Sugerencias para el candidato 2
-│   └── actualizar_estado.php # Cambiar el estado de una sugerencia
-├── Resultados/          # Gestión de resultados
-│   ├── resultados.php   # Ver resultados para usuarios
-│   ├── resultados_admin.php # Resultados detallados para admin
-├── Votos/               # Sistema de votación
-│   └── votos.php        # Página para votar
-└── assets/              # Recursos como CSS y JS
-    ├── EstilosResultados.css # Estilos para los resultados
-    └── scripts.js
 
 
 ## Ejecutando las Pruebas ⚙️
