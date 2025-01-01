@@ -76,6 +76,7 @@ src/
     ├── EstilosResultados.css # Estilos para los resultados
     └── scripts.js
 
+
 ## Ejecutando las Pruebas ⚙️
 
 Para garantizar la calidad del sistema, realiza las siguientes pruebas:
