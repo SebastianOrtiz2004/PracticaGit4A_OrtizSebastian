@@ -7,7 +7,7 @@ _Este proyecto es un sistema de gestión de elecciones desarrollado para un solo
 3. [Instalación 🔧](#instalación-)
 4. [Ejecutando las Pruebas ⚙️](#ejecutando-las-pruebas)
 5. [Despliegue 📦](#despliegue-)
-6. [Construido con 🛠️](#construido-con-)
+6. [Construido con 🛠️](#construido-con)
 7. [Autores ✒️](#autores-)
 8. [Expresiones de Gratitud 🎁](#expresiones-de-gratitud-)
 
@@ -72,10 +72,12 @@ Estas pruebas validan el flujo completo del sistema.
 Crear una sugerencia como usuario.
 Revisar la sugerencia como administrador.
 Verificar que aparezca en la lista de sugerencias revisadas.
+
 2. **Votación:**
 
 Emitir un voto.
 Verificar que se actualicen los resultados correctamente.
+
 3. **Resultados:**
 
 Consultar resultados como usuario.
